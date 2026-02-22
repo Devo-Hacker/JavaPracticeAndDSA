@@ -1,53 +1,53 @@
 package javapractice;
-// // // // import java.util.*;
-// // // // public class main {
-// // // //     public static void main(String[] args){
-// // // //         System.out.println("Hi!");
-// // // //         System.out.println("Welcome to my life");
+ import java.util.*;
+ public class Main {
+     public static void main(String[] args){
+         System.out.println("Hi!");
+         System.out.println("Welcome to my life");
 
         
-// // // //         int myNum = 5;               // Integer (whole number)
-// // // //         float myFloatNum = 5.99f;   // Floating point number
-// // // //         char myLetter = 'D';        // Character
-// // // //         boolean myBool = true;      // Boolean
-// // // //         byte myByte = 100;          // Byte
-// // // //         short myShort = 5000;       // Short
-// // // //         long myLong = 15000000000L; // Long
-// // // //         double myDouble = 19.99d;   // Double precision floating point number
+         int myNum = 5;               // Integer (whole number)
+         float myFloatNum = 5.99f;   // Floating point number
+         char myLetter = 'D';        // Character
+         boolean myBool = true;      // Boolean
+         byte myByte = 100;          // Byte
+         short myShort = 5000;       // Short
+         long myLong = 15000000000L; // Long
+         double myDouble = 19.99d;   // Double precision floating point number
 
-// // // //         //reference datatypes
-// // // //         String myText = "Hello";    // String
+         //reference datatypes
+         String myText = "Hello";    // String
 
 
-// // // //         System.out.println(myNum);
-// // // //         System.out.println(myFloatNum);
-// // // //         System.out.println(myLetter);
-// // // //         System.out.println(myBool);
-// // // //         System.out.println(myByte);
-// // // //         System.out.println(myShort);
-// // // //         System.out.println(myLong);
-// // // //         System.out.println(myDouble);
-// // // //         System.out.println(myText);
+         System.out.println(myNum);
+         System.out.println(myFloatNum);
+         System.out.println(myLetter);
+         System.out.println(myBool);
+         System.out.println(myByte);
+         System.out.println(myShort);
+         System.out.println(myLong);
+         System.out.println(myDouble);
+         System.out.println(myText);
         
-// // // //         //getting user input
-// // // //         Scanner s = new Scanner(System.in);
+         //getting user input
+         Scanner s = new Scanner(System.in);
 
-// // // //         String name;
-// // // //         System.out.println("Enter your name: ");
-// // // //         name = s.nextLine();  //we use nextLine() to take string input with spaces or any kind of characters
-// // // //         System.out.println("Hello "+ name);
-// // // //         System.out.println("Enter your age: ");
-// // // //         int age = s.nextInt();
-// // // //         System.out.println("your age is: "+ age);
+        String name;
+         System.out.println("Enter your name: ");
+        name = s.nextLine();  //we use nextLine() to take string input with spaces or any kind of characters
+         System.out.println("Hello "+ name);
+        System.out.println("Enter your age: ");
+         int age = s.nextInt();
+         System.out.println("your age is: "+ age);
 
-// // // //         s.close();
+         s.close();
 
 
-// // // //     }
+     }
 
-// // // // }
+ }
 
-// // // import java.util.*;
+//  import java.util.*;
 
 // // // class Main{
 
