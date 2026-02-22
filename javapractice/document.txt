@@ -1,0 +1,4 @@
+1)why we use println not print reason is println will ensure that your output should print in other line its like /n or endl in cpp
+\n also works  
+2) how to accept user input -- using scanner class
+a scanner is an object that is used to accept input from the user 
