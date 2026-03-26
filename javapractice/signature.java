@@ -126,17 +126,3 @@ class AmmiAbbu{
         obj.close();
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
